@@ -401,6 +401,10 @@ img{
   .home__data{
     align-self: flex-end;
   }
+  .handle{
+    align-self: start;
+    flex-direction: row;
+  }
   .home__social{
     padding-top: 0;
     padding-bottom: 2.5rem;
